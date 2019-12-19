@@ -1,0 +1,16 @@
+body{
+  background-color: #010e2c;
+}
+
+nav {
+  color: #fff;
+  background-color: #010e2c !important;
+}
+
+nav .brand-logo {
+  font-size:30px;
+}
+
+nav ul a{
+  font-size: 25px;
+}

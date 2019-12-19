@@ -1,0 +1,1 @@
+export const HIGHCHARTS_DATA = "HIGHCHARTS_DATA";
